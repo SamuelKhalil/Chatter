@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>110979747481-7hlc21ki0vjito8298opr2ccchitlqob.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.110979747481-7hlc21ki0vjito8298opr2ccchitlqob</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDnLnWtNyYqdp9xPC7Okd1_yuD7B3DHjfc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>110979747481</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.Elite3.Chatter</string>
+	<key>PROJECT_ID</key>
+	<string>chatter-feaa5</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chatter-feaa5.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:110979747481:ios:36b75109a4b3d31f</string>
+	<key>DATABASE_URL</key>
+	<string>https://chatter-feaa5.firebaseio.com</string>
+</dict>
+</plist>
